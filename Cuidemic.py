@@ -1,3 +1,6 @@
+# --*-- coding:utf-8 --*--
+#! /usr/bin/python
+
 """
 Cuidemic.py
 
@@ -7,16 +10,7 @@ This software is released under the MIT License.
 http://opensource.org/licenses/mit-license.php
 """
 
-#v.1.00
-
-#! /usr/bin/python
-# --*-- coding:utf-8 --*--
-
-# TODO
-# 通信司令官の実装 ※あとはこれだけ！
-# 作戦エキスパートの特殊能力実装していない気がする(調査基地じゃない方)
-# 引いたカードがエピ+エピ、エピ+イベントカードの時正しく動作する？はず
-# 空輸で衛生兵を移動させたときに、治療薬作成済みであれば治療 ←確認必要
+#v.1.01
 
 import random
 import os

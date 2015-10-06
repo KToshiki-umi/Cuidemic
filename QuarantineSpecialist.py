@@ -1,3 +1,6 @@
+#! /usr/bin/python
+# --*-- coding:utf-8 --*--
+
 """
 QuarantineSpecialist.py
 
@@ -7,10 +10,7 @@ This software is released under the MIT License.
 http://opensource.org/licenses/mit-license.php
 """
 
-#v.1.00
-
-#! /usr/bin/python
-# --*-- coding:utf-8 --*--
+#v.1.01
 
 from Player import Player
 
